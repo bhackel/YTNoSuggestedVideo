@@ -7,7 +7,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = YTNoSuggestedVideo
 
-$(TWEAK_NAME)_FILES = YTNoSuggestedVideo.x
+$(TWEAK_NAME)_FILES = YTNoSuggestedVideo.x YTNoSuggestedVideoSettings.x
 $(TWEAK_NAME)_CFLAGS = -fobjc-arc
 $(TWEAK_NAME)_FRAMEWORKS = UIKit
 

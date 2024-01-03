@@ -2,7 +2,7 @@ Package: com.bhackel.YTNoSuggestedVideo
 Name: YTNoSuggestedVideo
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Adds an option to remove the suggested video popup when finishing a video
+Description: Removes the suggested video popup when finishing a video
 Maintainer: bhackel
 Author: bhackel
 Section: Tweaks
